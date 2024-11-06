@@ -5,8 +5,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fobelmonte) 
 
-![Logo](https://github.com/user-attachments/assets/9744f605-88d4-465d-9b51-0c3ca1e481ab)
-
 https://fobelmonte.itch.io
 
 # 💻 Tech Stack:
