@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fobelmonte) 
+<img width="50" height="50" alt="linkedin-ico" src="https://github.com/user-attachments/assets/d31b9c04-1f62-4e58-acb0-a22fe93adce2" />(https://linkedin.com/in/fobelmonte) 
 
 https://fobelmonte.itch.io
 
