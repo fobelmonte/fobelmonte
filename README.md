@@ -8,4 +8,7 @@
 https://fobelmonte.itch.io
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+
+<img width="50" height="50" alt="unreal-ico" src="https://github.com/user-attachments/assets/ea25d92e-46ec-4dcd-9cf6-17fea81d63cc" />
+<img width="50" height="50" alt="unity-ico" src="https://github.com/user-attachments/assets/814fe2dc-edbe-440d-87fd-8bc00b33dd7a" />
+<img width="64" height="64" alt="godot-ico" src="https://github.com/user-attachments/assets/89dc8b4e-057d-47f6-a8f0-7975d77fa0ca" />
