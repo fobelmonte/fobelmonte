@@ -1,5 +1,5 @@
 # 👤 About Me:
-👋Hello, I'm Francisco Belmonte<br>🎮 Currently I'm learning Game Development<br>🌎 Languages: 🇪🇸 🇬🇧  🇮🇹
+👋Hello, I'm Francisco Belmonte<br>🎮 Currently I'm learning Game Development<br>
 
 
 ## 🌐 Socials:
