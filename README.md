@@ -5,7 +5,10 @@
 ## 🌐 Socials:
 [<img width="50" height="50" alt="linkedin-ico" src="https://github.com/user-attachments/assets/d31b9c04-1f62-4e58-acb0-a22fe93adce2"/>](https://linkedin.com/in/fobelmonte) 
 
-https://fobelmonte.itch.io
+[<img width="48" height="48" alt="itch-ico" src="https://github.com/user-attachments/assets/f274cd02-5cfb-465f-8d01-e1a273321dfa" />](https://fobelmonte.itch.io)
+
+[<img width="50" height="50" alt="behance-ico" src="https://github.com/user-attachments/assets/8c69c6b6-04c7-4976-8bf6-6f3afe29cd89" />](https://www.behance.net/fobelmonte)
+
 
 # 💻 Tech Stack:
 
