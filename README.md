@@ -2,7 +2,7 @@
 
 
 # 👤 About Me:
-👋Hello, I'm Francisco Belmonte<br>🎮 Game Developer<br>
+👋Hello, I'm Francisco Belmonte<br>🎮Game Developer<br>
 
 
 ## 🌐 Socials:
